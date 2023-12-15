@@ -1,0 +1,10 @@
+{
+  "name":"Copilot mode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot"
+      ]
+    }
+  }
+}
